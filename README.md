@@ -1,5 +1,5 @@
 # scheme_interpreter
-Scheme Interpreter Project for CS 61A (Fall 2021 Semester)
+Scheme Interpreter Project for CS 61A (Fall 2021 Semester)  
 Project specification: https://inst.eecs.berkeley.edu/~cs61a/fa21/proj/scheme/
 
 - Class project for CS 61A
